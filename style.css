@@ -1,7 +1,7 @@
 /*SECTION-FULLSCREN CAPA*/
 
 .img_total {
-    background-image: url(img/capa.jpg);
+    background-image: url(capa.jpg);
     background-size: cover;
     min-height: 100vh;
     display: flex;
